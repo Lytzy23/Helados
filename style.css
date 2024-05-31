@@ -13,3 +13,17 @@ body{
     padding: 1rem;
     border-radius: 10px;
 }
+
+#saludo{
+    color: white;
+    font-size: 5rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+#combinado{
+    color: white;
+    font-size: 5rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
